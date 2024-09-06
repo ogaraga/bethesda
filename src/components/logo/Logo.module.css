@@ -1,0 +1,13 @@
+.logo{
+    width: cal(100vw - 70vw);
+    height: cal(15vh - 10vh);
+    z-index: 10;
+}
+.image1{
+    width: 80px;
+    margin-left: 10px;
+    border-radius: 50%;
+    margin-top: 5px;
+    box-shadow: 2px 1px 1px orange;
+}
+

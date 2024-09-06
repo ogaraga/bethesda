@@ -1,0 +1,13 @@
+.footer{
+    background-color: grey;
+    width: 100vw;
+    position: absolute;
+    bottom: -0.5%;
+    padding: 20px;
+    text-align: center;
+}
+p{
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+}
